@@ -13,10 +13,10 @@ optional string location:
 -- ftd.row:
 width.fixed.px: 700
 height.fixed.px: 350
-background.solid: $inherited.colors.background.base
+background.solid: #0000ff 
 spacing: space-around
 border-width.px: 1
-border-color: $inherited.colors.border
+border-color: #008000
 
 -- ftd.column:
 width.fixed.percent: 50
